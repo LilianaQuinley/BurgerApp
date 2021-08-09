@@ -23,6 +23,18 @@ The directory will be split up in to multiple folders:
         static folder containes the CSS stylesheet and the images for the app
     * views:
         the folder required for Handlebars, contains a mains.handlebars and an index.handlebars
+	
+	
+## Technologies Used
+HTML
+CSS
+Bootstrap
+JavaScript
+MySql
+Node
+Express
+Handlebars
+
 
 # How to Use
     - To initialize the app either launch it on Heroku or in Node run node server.js
